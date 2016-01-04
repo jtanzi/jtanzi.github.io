@@ -12,6 +12,7 @@ body {
 
 }
 
-#desc-container {
-
+.jumbotron {
+  background-image: url("images/banner.jpg");
+  color: white;
 }
