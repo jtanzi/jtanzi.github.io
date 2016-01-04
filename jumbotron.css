@@ -1,0 +1,17 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+.navbar-brand {
+  font-size: 2.5 em;
+}
+
+.col-md-4 {
+
+}
+
+#desc-container {
+
+}
